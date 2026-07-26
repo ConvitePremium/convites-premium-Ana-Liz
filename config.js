@@ -23,21 +23,21 @@ window.CONFIG = {
   // ----- IDENTIDADE DO CONVITE -------------------------------------------
   // Nome do aniversariante. Aparece no título da aba do navegador e nos
   // textos automáticos do convite.
-  nome: "Liz",
+  nome: "Ana Liz",
 
   // ----- WHATSAPP (CONFIRMAR PRESENÇA) -----------------------------------
   // numero: DDI + DDD + número, SÓ DÍGITOS (sem +, espaço, parênteses ou traço).
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
   whatsapp: {
-    numero: "5511968658529",
-    mensagem: "Olá! Confirmo minha presença no aniversário da Liz."
+    numero: "5588921738899",
+    mensagem: "Olá! Confirmo minha presença no aniversário da Ana Liz."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://www.google.com/maps/@-23.451182,-46.5805723,3a,75y,60.02h,65.83t/data=!3m7!1e1!3m5!1svurXXU26dTFJo_HwDhBH-w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D24.169645649598294%26panoid%3DvurXXU26dTFJo_HwDhBH-w%26yaw%3D60.02452636468114!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDcyMC4wIKXMDSoASAFQAw%3D%3D",
+  mapa: "https://www.google.com/maps/place/JF+EVENTOS/@-6.0460901,-39.4360457,17z/data=!3m1!4b1!4m6!3m5!1s0x7a2d348d3d6bb01:0x58a12c449000becb!8m2!3d-6.0460954!4d-39.4334708!16s%2Fg%2F11xfy_bsxn?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
