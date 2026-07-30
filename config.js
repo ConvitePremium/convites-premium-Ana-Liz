@@ -37,7 +37,7 @@ window.CONFIG = {
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://www.google.com/maps/place/JF+EVENTOS/@-6.0460901,-39.4360457,17z/data=!3m1!4b1!4m6!3m5!1s0x7a2d348d3d6bb01:0x58a12c449000becb!8m2!3d-6.0460954!4d-39.4334708!16s%2Fg%2F11xfy_bsxn?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D",
+  mapa: "https://www.google.com/maps/place//@-6.0713705,-39.4435553,18.75z/data=!4m6!1m5!3m4!2zNsKwMDQnMTUuNyJTIDM5wrAyNiczNi40Ilc!8m2!3d-6.0710258!4d-39.4434509?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
