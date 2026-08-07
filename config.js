@@ -37,7 +37,7 @@ window.CONFIG = {
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "https://share.google/q9AMtRkFx9yeOcxZj",
+  mapa: "https://www.google.com/maps/place//data=!4m2!3m1!1s0x7a2d3000b078cf1:0x4c8866f624099c89?entry=s&sa=X&ved=2ahUKEwjt79-Uoo2WAxW-H7kGHUuKBxoQ4kB6BAgYEAA&hl=pt&g_ep=Eg1tbF8yMDI2MDgwNF8wIOC7DCoASAJQAg%3D%3D",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
